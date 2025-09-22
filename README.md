@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Fortend Development Skills.<br>🌱 I’m currently learning Data Structures and Algorithm in Java and Fortend Development .
+🔭 I’m currently working on Java Backend and my Fortend Development Skills .<br>🌱 I’m currently learning Advances Data Structures and Algorithm in Java  .
 
 
 ## 🌐 Socials:
