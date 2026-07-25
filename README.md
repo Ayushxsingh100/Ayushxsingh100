@@ -1,28 +1,30 @@
-# Hi, I'm Mayank Malik 👋
+# Hi, I'm Ayush Singh 👋
 
-**AI/ML Engineering student | Builder | Community Leader**
+**Software Engineer | Cloud & Backend Enthusiast | Builder**
 
-B.Tech CSE (AI/ML) @ UPES Dehradun · Class of 2028
+B.Tech Computer Science Engineering @ UPES Dehradun · Class of 2028
 
-Currently interning at **[NewCycl](https://newcycl.com)** — building Rawbin, an electric home composting device — while pursuing the **Data Science & AI Program by IIT Roorkee E&ICT Academy** (March–November 2026).
+I enjoy building production-ready software and understanding the systems behind it — from full-stack applications to cloud infrastructure, backend architecture, and scalable systems.
 
-I like building things that combine technical depth with real-world usability: ML systems, full-stack platforms, and the communities that grow around them.
+Currently focused on **Software Engineering, Cloud Computing, System Design, and DSA in Java** while building and shipping real-world products.
 
 ---
 
 ## 🌐 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mayankmalik.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://mayankmalik.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankmalik263)
-[![Email](https://img.shields.io/badge/Email-mayankmalik263@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankmalik263@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
 ## 🔭 What I'm Working On
 
-- **[MASS — Multi-Agent Startup Simulator](https://github.com/mayankmalik263/Mass-Multi-Agent-STARTUP-Simulator-)** — building a multi-agent system where specialized AI agents (CEO, Marketing, Finance, Product, Sales) collaborate to turn a single startup idea into a full business strategy
-- **System Design + DSA in Java** — learning scalable architecture patterns and sharpening algorithmic thinking through hands-on Java implementation
-- **Full-Stack Development** — building real projects with and without AI assistance, covering both MERN and modern Next.js patterns
+- ☁️ Exploring **Cloud Computing, AWS, and cloud-native architectures**
+- 🏗️ Learning **System Design, Backend Engineering, and Software Architecture**
+- 🧠 Strengthening **Data Structures & Algorithms in Java**
+- 🚀 Building and shipping **full-stack products and developer-focused projects**
+- ⚙️ Learning how production systems handle **scalability, reliability, performance, and deployment**
 
 ---
 
@@ -30,121 +32,88 @@ I like building things that combine technical depth with real-world usability: M
 
 **Languages**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frameworks & Libraries**
+**Frontend & Full Stack**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**AI / ML**
+**Backend, Database & Cloud**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-**Databases & Cloud**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### [MASS — Multi-Agent Startup Simulator](https://github.com/mayankmalik263/Mass-Multi-Agent-STARTUP-Simulator-) *(Active)*
-A multi-agent system that simulates a real startup team from a single idea. Specialized agents — CEO, Marketing, Finance, Product, and Sales — debate and coordinate to produce a complete business strategy including plans, pricing, roadmaps, and go-to-market output. Built as a hands-on experiment in multi-agent architecture and systems thinking.
+### VeyloPrep — Placement Preparation Platform
+A career and placement preparation platform designed to bring essential placement workflows into one focused workspace.
 
-`Python` `Multi-Agent Systems` `GenAI`
+Built with an emphasis on clean UX, practical workflows, responsive design, and cross-platform accessibility.
 
----
-
-### [Waffle Da! — Brand Website & Ordering App](https://github.com/mayankmalik263/waffle-da-express) · [waffleda.in](https://waffleda.in)
-Freelance project — production-ready ordering platform for a live food brand. Features real-time order tracking, push notifications, a dual-menu system with automatic stall activation during college events, and a full admin dashboard. Has processed 100+ live orders without major operational issues.
-
-`React` `TypeScript` `Supabase` `Capacitor` `Tailwind` `Vite`
+`Next.js` `TypeScript` `Tailwind CSS` `Capacitor`
 
 ---
 
-### [Personal Portfolio Website](https://github.com/mayankmalik263/Portfolio-Website) · [mayankmalik.vercel.app](https://mayankmalik.vercel.app) *(Active)*
-Clean, minimal portfolio built with Next.js 14 (App Router), Tailwind CSS, and Shadcn UI. Features a serverless markdown blog via gray-matter and next-mdx-remote, a contact form via Resend, and full responsive + dark mode support. Deployed on Vercel.
+### Serverless Image Processing System
+Cloud-based image processing architecture designed around serverless computing.
 
-`Next.js` `TypeScript` `Tailwind` `Shadcn UI` `Resend`
+Built to explore event-driven systems, automated image processing, cloud storage, and scalable backend architecture.
 
----
-
-### [ML Enhanced Dynamic MAC Protocol Optimization](https://github.com/mayankmalik263/ML-Enhanced-Dynamic-MAC-Protocol-Optimization)
-Physics-aware Discrete Event Simulation framework using SimPy that models Slotted ALOHA and CSMA/CA protocols. A Random Forest classifier dynamically selects the optimal MAC protocol in real time. Reduced collision rates to approximately 0.29% under 17,000+ packets/sec stress tests.
-
-`Python` `SimPy` `Random Forest` `scikit-learn`
+`AWS` `Serverless` `Cloud Computing` `Event-Driven Architecture`
 
 ---
 
-### [ML Framework for AQI Classification](https://github.com/mayankmalik263/ML-Framework-for-Air-Quality-Index-AQI-Classification)
-End-to-end ML pipeline classifying Delhi NCR Air Quality Index into health-risk categories using XGBoost. Improved accuracy from ~57% to 98% through data harmonization and hyperparameter optimization. Includes an interactive CLI for real-time prediction.
+### Splitwise Pro
+A full-stack expense management application inspired by Splitwise, designed for managing shared expenses and simplifying balance tracking between users.
 
-`Python` `XGBoost` `scikit-learn` `Pandas`
+Built with a focus on real-world application architecture, data management, and user experience.
 
----
-
-### [IMC Prosperity Trading Bot](https://github.com/mayankmalik263/IMC_Prosperity_Trading_Bot)
-Algorithmic trading bot for the IMC Prosperity challenge. Implements safe mid-price handling, dynamic execution thresholds, and queue-priority logic for profitable trade execution.
-
-`Python` `Algorithmic Trading`
+`Full Stack` `Database` `Web Development`
 
 ---
 
-### [2D Game Engine in Java](https://github.com/mayankmalik263/Game-Engine-In-Java)
-Custom 2D game engine built from scratch featuring a complete Entity Component System, batch rendering with OpenGL, an integrated Dear ImGui editor with docking, JBox2D physics, and GSON-based scene serialization.
+### RoomieMatch AI
+A smart roommate-matching platform designed to improve roommate discovery using compatibility-based matching.
 
-`Java` `OpenGL` `JBox2D`
+Built as an exploration of recommendation logic, product design, and full-stack development.
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=mayankmalik263&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=mayankmalik263&theme=shadow_blue&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankmalik263&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+`Full Stack` `Matching System` `Web Development`
 
 ---
 
-## 🎖 Recognition
+## 💼 Experience
 
-- **Intern @ NewCycl** — building Rawbin, an electric home composting IoT device (June 2026)
-- **PR & Sponsorship Head** — UPES IET Community + IEEE Computational Intelligence Society Student Chapter
-- **Lead Enabler & Senior Mentor** — managing ~100 students across SAMARTH and SRIJAN programs at UPES
-- **IIT Roorkee E&ICT Academy** — Data Science & AI Program (March–November 2026)
-- **Head Boy** — Model School Rohtak, representing 1,160+ students (2023–2024)
+### Website Developer Intern — Crobstacle
 
----
+Working on a production web platform with a focus on frontend engineering, performance, CMS integration, SEO, and responsive user experiences.
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+- Developing and improving production features using **Next.js, TypeScript, and Tailwind CSS**
+- Working with **Payload CMS, PostgreSQL, and ImageKit**
+- Debugging production issues and improving application performance
+- Working on technical SEO, metadata, canonical URLs, sitemap, and routing
+- Improving responsive UI and reusable frontend components
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=mayankmalik263&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
+## 🌱 Currently Learning
+
+```text
+Cloud Computing       ███████████████░░░
+System Design         █████████████░░░░░
+Backend Engineering   ██████████████░░░░
+DSA in Java           ███████████████░░░
+Software Architecture ████████████░░░░░░
