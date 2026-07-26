@@ -98,7 +98,7 @@ I enjoy understanding not just how to build software, but how systems behave in 
 
 ## 🚀 Featured Projects
 
-### [VeyloPrep — Career & Placement Management Platform](YOUR_VEYLOPREP_REPO_URL) *(Active)*
+### [VeyloPrep — Career & Placement Management Platform](https://github.com/Ayushxsingh100/VeyloPrep) *(Active)*
 
 A mobile-first career-readiness workspace that helps students manage applications, interviews, assessments, milestones, job portals, resumes, certificates, and professional information from one place.
 
