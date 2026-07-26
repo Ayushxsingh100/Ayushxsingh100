@@ -118,7 +118,7 @@ Built around real-world expense workflows with authentication, persistent data, 
 
 ---
 
-### [Engineered.dev — Technical Engineering Publication](YOUR_ENGINEERED_REPO_URL)
+### [Engineered.dev — Technical Engineering Publication](https://github.com/Ayushxsingh100/engineered_dev)
 
 A developer-focused technical publication built to document and share practical engineering knowledge across cloud computing, backend development, system design, and software architecture.
 
