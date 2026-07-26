@@ -108,7 +108,7 @@ Built as a cross-platform product with persistent user data, PWA support, and a 
 
 ---
 
-### [Split-Sync — Smart Expense Sharing Platform](YOUR_SPLITSYNC_REPO_URL)
+### [Split-Sync — Smart Expense Sharing Platform](https://github.com/krishika08/splitsync-app)
 
 A full-stack expense-sharing application for managing group expenses, individual balances, settlements, and shared financial activity through a simple and intuitive interface.
 
