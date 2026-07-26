@@ -160,22 +160,3 @@ Key areas of work:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushxsingh100&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-## 🌱 Currently Learning
-
-- ☁️ **Cloud Computing** — AWS, serverless systems, cloud architecture
-- 🏗️ **System Design** — scalability, caching, databases, queues, distributed systems
-- ⚙️ **Backend Engineering** — APIs, databases, reliability and performance
-- 🧠 **Data Structures & Algorithms** — problem solving in Java
-- 🧩 **Software Architecture** — designing maintainable and scalable applications
-
----
-
-## 🎯 Areas of Interest
-
-```text
-☁️  Cloud Computing
-⚙️  Backend Engineering
-🏗️  System Design
-🧩  Software Architecture
-💻  Software Engineering
-🚀  Distributed & Scalable Systems
