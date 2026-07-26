@@ -19,21 +19,6 @@ I enjoy understanding not just how to build software, but how systems behave in 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Ayushxsingh.work@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/ayushxsingh100/)
 
----
-
-## 🔭 What I'm Working On
-
-- **Cloud Computing & Backend Engineering** — exploring cloud-native architectures, backend systems, APIs, databases, scalability, and production engineering
-
-- **System Design** — learning how scalable systems are designed through caching, load balancing, databases, distributed systems, queues, and reliability patterns
-
-- **DSA in Java** — strengthening problem-solving and algorithmic thinking for software engineering interviews
-
-- **Full-Stack Product Development** — building and shipping real-world applications using modern web technologies
-
-- **Software Architecture** — understanding how maintainable applications evolve from individual components into reliable production systems
-
----
 # 💻 Tech Stack
 
 ## 👨‍💻 Languages
@@ -113,51 +98,37 @@ I enjoy understanding not just how to build software, but how systems behave in 
 
 ## 🚀 Featured Projects
 
-### [VeyloPrep — Placement Preparation Platform](YOUR_VEYLOPREP_REPO_URL) *(Active)*
+### [VeyloPrep — Career & Placement Management Platform](YOUR_VEYLOPREP_REPO_URL) *(Active)*
 
-A career and placement preparation platform designed to bring the fragmented placement journey into one focused workspace.
+A mobile-first career-readiness workspace that helps students manage applications, interviews, assessments, milestones, job portals, resumes, certificates, and professional information from one place.
 
-Built with an emphasis on clean UX, practical student workflows, responsive design, and cross-platform accessibility.
+Built as a cross-platform product with persistent user data, PWA support, and a native Android application through Capacitor.
 
-The project also explores taking a modern web application beyond the browser through native Android and iOS integration using Capacitor.
-
-`Next.js` `TypeScript` `Tailwind CSS` `Capacitor`
+`React` `TypeScript` `Vite` `Supabase` `PostgreSQL` `Capacitor` `PWA`
 
 ---
 
-### [Serverless Image Processing System](YOUR_SERVERLESS_PROJECT_URL)
+### [Split-Sync — Smart Expense Sharing Platform](YOUR_SPLITSYNC_REPO_URL)
 
-A cloud-based image processing system designed around serverless and event-driven architecture.
+A full-stack expense-sharing application for managing group expenses, individual balances, settlements, and shared financial activity through a simple and intuitive interface.
 
-The project explores how cloud services can automatically react to uploaded images, process them asynchronously, and store generated outputs without maintaining traditional servers.
+Built around real-world expense workflows with authentication, persistent data, balance calculation logic, responsive design, and cross-platform accessibility.
 
-Built as a hands-on exploration of **serverless computing, event-driven systems, cloud storage, and scalable architecture**.
-
-`AWS` `Serverless` `Cloud Computing` `Event-Driven Architecture`
+`React` `TypeScript` `Supabase` `PostgreSQL` `Capacitor` `PWA`
 
 ---
 
-### [Splitwise Pro](YOUR_SPLITWISE_REPO_URL)
+### [Engineered.dev — Technical Engineering Publication](YOUR_ENGINEERED_REPO_URL)
 
-A full-stack expense management application inspired by Splitwise for managing shared expenses, balances, and settlements between users.
+A developer-focused technical publication built to document and share practical engineering knowledge across cloud computing, backend development, system design, and software architecture.
 
-Built to explore real-world application architecture, database relationships, expense calculation logic, and user-centric product design.
+Designed as a growing knowledge platform focused on clear technical writing, structured engineering content, and documenting lessons learned while building real-world software.
 
-`Full Stack` `Database` `REST APIs` `Web Development`
-
----
-
-### [RoomieMatch AI](YOUR_ROOMIEMATCH_REPO_URL)
-
-A smart roommate discovery platform designed to match people based on compatibility and living preferences.
-
-The project explores recommendation and matching logic while combining it with a practical full-stack product experience.
-
-`Full Stack` `Matching System` `Web Development`
+`Next.js` `TypeScript` `Web Development` `Technical Writing` `System Design` `Cloud Computing`
 
 ---
 
-## 💼 Experience
+## 💼 Current Experience
 
 ### Website Developer Intern — Crobstacle
 
